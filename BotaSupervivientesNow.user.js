@@ -4,7 +4,7 @@
 // @version      2.0
 // @description  try to take over the world!
 // @author       Secret
-// @match        https://app.ex.co/stories/item/3fcdbb5a-cb19-47d0-a25c-5560daca1034
+// @match        https://app.ex.co/stories/item/e51f67d6-dc69-4287-8f7b-b7a13be76b03
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=telecinco.es
 // @grant        none
 // @license MIT
